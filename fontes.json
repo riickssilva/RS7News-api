@@ -3,28 +3,28 @@
     "id": 1,
     "title": "OneFootball",
     "description": "Site de Notícias Esportivas que mais cresce no mundo.",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fperegrine.onefootball.com%2Fimages%2Fsharing_banner.png&imgrefurl=https%3A%2F%2Fonefootball.com%2Fpt-br%2Finicio&tbnid=VF2IuOE0Fo8qXM&vet=12ahUKEwif_8yHuez4AhVzN7kGHTXSBeYQMygAegUIARCqAQ..i&docid=c7vFXG9kfMGkQM&w=1200&h=640&itg=1&q=onefootball&ved=2ahUKEwif_8yHuez4AhVzN7kGHTXSBeYQMygAegUIARCqAQ",
+    "image": "https://peregrine.onefootball.com/images/sharing_banner.png",
     "link": "https://onefootball.com/pt-br/inicio"
   },
   {
     "id": 2,
     "title": "GE",
     "description": "Maior site de Notícias sobre esporte do Brasil.",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.glbimg.com%2Fv1%2FAUTH_378ee63fe83141e69caddd838034e850%2Fstatic%2Fpreview-share-min.png&imgrefurl=https%3A%2F%2Fge.globo.com%2F&tbnid=uJ4F_-NG3eWCwM&vet=12ahUKEwjXguDUuuz4AhWdH7kGHTJjC9QQMygAegUIARCLAQ..i&docid=hfPkNitS_VW2wM&w=1200&h=630&q=ge&hl=pt-BR&ved=2ahUKEwjXguDUuuz4AhWdH7kGHTJjC9QQMygAegUIARCLAQ",
+    "image": "https://s3.glbimg.com/v1/AUTH_378ee63fe83141e69caddd838034e850/static/preview-share-min.png",
     "link": "https://ge.globo.com/"
   },
   {
     "id": 3,
     "title": "ESPN",
     "description": "Um dos maiores veículos de cominicação esportiva americano.",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa1.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%252Fi%252Fespn%252Fespn_logos%252Fespn_red.png&imgrefurl=https%3A%2F%2Fwww.espn.com.br%2F&tbnid=hN8ojwdqwxJpKM&vet=12ahUKEwj1xNrluuz4AhXdM7kGHbGyAucQMygAegUIARDAAQ..i&docid=8HXyDtS3_oMpTM&w=1296&h=729&q=espn&hl=pt-BR&ved=2ahUKEwj1xNrluuz4AhXdM7kGHbGyAucQMygAegUIARDAAQ",
+    "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
     "link": "https://www.espn.com.br/"
   },
   {
     "id": 4,
     "title": "Copa do Mundo do Catar",
     "description": "Tabela de jogos da Copa do Mundo 2022.",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lance.com.br%2Ffiles%2Farticle_main%2Fuploads%2F2020%2F12%2F07%2F5fce89da30630.jpeg&imgrefurl=https%3A%2F%2Fwww.lance.com.br%2Ffutebol-internacional%2Ffifa-informa-regras-para-o-sorteio-da-fase-de-grupos-da-copa-do-mundo.html&tbnid=w2AIft8zTbhYlM&vet=12ahUKEwjGgInwy-z4AhUSNLkGHctlBh8QMygIegUIARDJAQ..i&docid=n1IM7n8c2cs0aM&w=846&h=476&q=copa%20do%20mundo%20catar&ved=2ahUKEwjGgInwy-z4AhUSNLkGHctlBh8QMygIegUIARDJAQ",
+    "image": "https://www.lance.com.br/files/article_main/uploads/2020/12/07/5fce89da30630.jpeg",
     "link": "https://ge.globo.com/futebol/copa-do-mundo/"
   }
 ]
