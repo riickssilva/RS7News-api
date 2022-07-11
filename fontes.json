@@ -2,21 +2,21 @@
   {
     "id": 1,
     "title": "OneFootball",
-    "description": "Site de Notícias Esportivas que mais cresce no mundo.",
+    "description": "OneFootball é uma empresa de mídia de futebol com sede na Alemanha, apresenta resultados ao vivo, estatísticas e notícias de 200 ligas em 12 idiomas diferentes.",
     "image": "https://peregrine.onefootball.com/images/sharing_banner.png",
     "link": "https://onefootball.com/pt-br/inicio"
   },
   {
     "id": 2,
     "title": "GE",
-    "description": "Maior site de Notícias sobre esporte do Brasil.",
+    "description": "GE é um portal de notícias de esporte brasileiro mantido pelo Grupo Globo e sob orientação da Central Globo de Esportes",
     "image": "https://s3.glbimg.com/v1/AUTH_378ee63fe83141e69caddd838034e850/static/preview-share-min.png",
     "link": "https://ge.globo.com/"
   },
   {
     "id": 3,
     "title": "ESPN",
-    "description": "Um dos maiores veículos de cominicação esportiva americano.",
+    "description": "Uma família de canais de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.",
     "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
     "link": "https://www.espn.com.br/"
   },
